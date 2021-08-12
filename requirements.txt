@@ -1,7 +1,10 @@
-pandas==1.2.4
-matplotlib==3.3.4
-dvc==2.5.4
-streamlit==0.83.0
-awesome_streamlit==20200728.1
-shap==0.39.0
+streamlit==0.84.1
+awesome-streamlit==20200728.1
+seaborn==0.11.1
+scikit-learn==0.24.2
+pandas==1.2.5
+plotly==5.1.0
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
 xgboost==1.4.2
+scipy==1.7.0
