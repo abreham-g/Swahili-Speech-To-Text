@@ -230,7 +230,7 @@ output_dim = len(char_map) + 2
 preprocess_model = preprocessin_model(sample_rate, fft_size, frame_step, n_mels)
 speech_model = conv_rnn(n_mels, output_dim = output_dim)
 model = build_model(output_dim, speech_model, preprocess_model)
-model.load_weights('src/pages/cnn_rnn5.h5')
+#model.load_weights('src/pages/cnn_rnn5.h5')
 
 
 def record(duration=5, fs=22050):
