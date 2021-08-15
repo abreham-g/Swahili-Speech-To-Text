@@ -6,5 +6,7 @@ pandas==1.2.5
 plotly==5.1.0
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
-xgboost==1.4.2
+wavio==0.0.4
+sounddevice==0.4.2
+tensorflow==2.6.0
 scipy==1.7.0
